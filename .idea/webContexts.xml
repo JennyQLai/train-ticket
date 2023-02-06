@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/trainticket/web/index.jsp" value="file://$PROJECT_DIR$/trainticket/web" />
+        <entry key="file://$PROJECT_DIR$/trainticket/web/pages/manager/book_manager.jsp" value="file://$PROJECT_DIR$/trainticket/web/pages/manager" />
+        <entry key="file://$PROJECT_DIR$/trainticket/web/pages/manager/ticket_manager.jsp" value="file://$PROJECT_DIR$/trainticket/web/pages/manager" />
+        <entry key="file://$PROJECT_DIR$/trainticket/web/pages/order/order.jsp" value="file://$PROJECT_DIR$/trainticket/web/pages/order" />
+        <entry key="file://$PROJECT_DIR$/trainticket/web/pages/user/login.jsp" value="file://$PROJECT_DIR$/trainticket/web/pages/user" />
+      </map>
+    </option>
+  </component>
+</project>
